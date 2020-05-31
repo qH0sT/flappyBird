@@ -1,0 +1,9 @@
+c:\users\harun\documents\visual studio 2015\Projects\flappyBird\flappyBird\bin\Debug\flappyBird.exe.config
+c:\users\harun\documents\visual studio 2015\Projects\flappyBird\flappyBird\bin\Debug\flappyBird.exe
+c:\users\harun\documents\visual studio 2015\Projects\flappyBird\flappyBird\bin\Debug\flappyBird.pdb
+c:\users\harun\documents\visual studio 2015\Projects\flappyBird\flappyBird\obj\Debug\flappyBird.csprojResolveAssemblyReference.cache
+c:\users\harun\documents\visual studio 2015\Projects\flappyBird\flappyBird\obj\Debug\flappyBird.Properties.Resources.resources
+c:\users\harun\documents\visual studio 2015\Projects\flappyBird\flappyBird\obj\Debug\flappyBird.csproj.GenerateResource.Cache
+c:\users\harun\documents\visual studio 2015\Projects\flappyBird\flappyBird\obj\Debug\flappyBird.exe
+c:\users\harun\documents\visual studio 2015\Projects\flappyBird\flappyBird\obj\Debug\flappyBird.pdb
+c:\users\harun\documents\visual studio 2015\Projects\flappyBird\flappyBird\obj\Debug\flappyBird.Form1.resources
